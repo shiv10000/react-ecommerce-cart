@@ -2,6 +2,8 @@
 
 A small ecommerce interface built with React, Vite, React Router, and Tailwind CSS. It currently showcases ten headphone products and a working client-side cart.
 
+![Storefront UI](screenshots/storefront.png)
+
 ## Features
 
 - Responsive product grid with reusable product cards
